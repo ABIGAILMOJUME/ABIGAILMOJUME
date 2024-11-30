@@ -6,7 +6,7 @@
 
 
 
-- 🔭 I’m recently worked on :(https://navia-skincare.vercel.app/)
+- 🔭 I recently worked on :(https://navia-skincare.vercel.app/)
 - 🌱 I’m currently upskilling and gaining proficiency in cloud engineering
 - 👯 I’m looking to collaborate on Cloud related projects 
 - 📫 How to reach me: abigailmojumecodes@gmail.com
