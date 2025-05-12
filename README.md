@@ -7,7 +7,7 @@
 
 
 - 🔭 I recently worked on :(https://navia-skincare.vercel.app/)
-- 🌱 I’m currently upskilling and gaining proficiency in cloud engineering
+- 🌱 I’m currently upskilling and gaining proficiency in cloud engineering @altschoolafrica
 - 👯 I’m looking to collaborate on Cloud related projects 
 - 📫 How to reach me: abigailmojumecodes@gmail.com
 - ⚡ 2 Fun facts about me:
