@@ -1,6 +1,6 @@
 
 # Hi there👋, I'm Abigail Mojume
-### A Frontend Developer and Cloud Enthusiast.
+### An Emerging Cloud Engineer
 
 
 
